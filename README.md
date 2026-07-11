@@ -68,3 +68,6 @@ INCLUDEPATH += /opt/homebrew/include/eigen3
 - Only DC analysis, no capacitor or inductor
 - The circuit must be connected to ground (node 0)
 - Values must be plain numbers (10k style doesn't work)
+
+## Source Code
+https://github.com/hexpad/circuit-solver/blob/main/main.cpp
